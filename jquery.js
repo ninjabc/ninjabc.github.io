@@ -1,1 +1,1 @@
-{"record":["167.179.89.139"]}
+{"record":["www.kazenote.xyz"]}
